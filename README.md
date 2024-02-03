@@ -1,7 +1,8 @@
-### Hola, I'm Rahul Nayak!  👋
+### Hii I am Rahul Nayak, a highly motivated professional with expertise in Python and Java. My primary interest lies in the field of Data Science, where I leverage my programming skills to extract meaningful insights from data.
 
-- 🌱 I’m currently learning Web Development
-- 💬 Ask me about any tech related stuff
-- 📫 How to reach me: rahulnayak1702@gmail.com
-
-
+###Contact Information
+## Name: Rahul Nayak
+## Email: rahulnayak1702@gmail.com
+### Skills
+## Programming Languages: Python, Java
+## Domain: Data Science
